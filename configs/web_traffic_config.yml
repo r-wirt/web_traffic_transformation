@@ -1,0 +1,4 @@
+configuration:
+  root_url: https://public.wiwdata.com/engineering-challenge/data/
+  source_schema: ['drop', 'length', 'path','user_agent', 'user_id']
+  output_location: 'results/output.csv'
